@@ -9,4 +9,4 @@ function onRequest(request, response)  {
 
 http.createServer(onRequest).listen(8888);
 
-console.log("Server has started.")
+console.log("Server has started.");
